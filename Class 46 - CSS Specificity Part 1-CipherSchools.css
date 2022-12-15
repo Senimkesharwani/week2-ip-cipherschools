@@ -1,0 +1,14 @@
+ /* Inline style attribute > id selector > class selector > element selector  */
+ h1{
+    color:green;
+ }
+
+ h1.heading{
+    color:magenta;
+ }
+ .h1class{
+    color:red;
+ }
+ /* #hild{
+    color:blue;
+ } */
